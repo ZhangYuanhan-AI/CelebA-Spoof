@@ -13,5 +13,5 @@ Based on these rich attributes, we further proposea simple yet powerful multi-ta
 ![CNN4-1](fig/CNN4-1.jpg)
 
 ## Sample images
-![attribute stastic-1](fig/attribute stastic-1.jpg)
+![attribute stastic-1](fig/attribute_stastic-1.jpg)
 
