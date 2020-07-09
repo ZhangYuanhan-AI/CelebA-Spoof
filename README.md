@@ -3,7 +3,13 @@
 
 Among 43 rich attributes, 40 attributes belong to live images including all facial components and accessories such as skin, nose, eyes, eyebrows,  lip, hair, hat, eyeglass. 3 attributes belong to spoof images including spoof types, environments and  illumination conditions.
 
-CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing.
+CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing**.
+
+![]()
+
+
+
+
 
 ## AENet
 
