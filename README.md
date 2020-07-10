@@ -15,6 +15,19 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 ## Sample images
 ![attribute stastic-1](fig/attribute_stastic-1.jpg)
 
+## CelebA-Spoof Dataset Downloads
+* Google Drive: [downloading link]()
+* Baidu Drive: [downloading link]()
+
+## Related Works
+* **CelebA** dataset:<br/>
+Ziwei Liu, Ping Luo, Xiaogang Wang and Xiaoou Tang, "Deep Learning Face Attributes in the Wild", in IEEE International Conference on Computer Vision (ICCV), 2015 
+
+## Dataset Agreement
+* The CelebA-Spoof dataset is available for **non-commercial research purposes** only.
+* You agree **not to** reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+* You agree **not to** further copy, publish or distribute any portion of the CelebA-Spoof dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+
 ## License and Citation
 The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
 ```
