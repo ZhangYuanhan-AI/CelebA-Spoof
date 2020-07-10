@@ -5,7 +5,7 @@ Among 43 rich attributes, 40 attributes belong to live images including all faci
 
 CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing**.
 
-![fig1_compressed-1](fig/github2_1.png)
+![fig1_compressed-1](fig/github3_2_1.png)
 
 ## AENet
 
