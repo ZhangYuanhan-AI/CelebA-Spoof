@@ -15,15 +15,13 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 ## Sample images
 ![attribute stastic-1](fig/attribute_stastic-1.jpg)
 
-## Citation
-
+## License and Citation
+The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
 ```
-@inproceedings{liu2015faceattributes,
- author = {Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},
- title = {Deep Learning Face Attributes in the Wild},
- booktitle = {Proceedings of International Conference on Computer Vision (ICCV)},
- month = December,
- year = {2015} 
+@inproceedings{CelebA-Spoof,
+  title={CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations},
+  author={Zhang, Yuanhan and Yin, Zhenfei and Li, Yidong and Yin, Guojun and Yan, Junjie and Shao, Jing and Liu, Ziwei},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2020}
 }
 ```
-
