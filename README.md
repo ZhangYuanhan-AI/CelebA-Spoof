@@ -20,7 +20,6 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 
 ## CelebA-Spoof Dataset Downloads
 Google Drive is available now!
-* Dropbox:  Not working because of download limit, we are working on it!
 * Google Drive: [downloading link](https://drive.google.com/drive/folders/1BftnlvXUNrZ6jsJC6QvFw4yCHQnWTIzw?usp=sharing)
 * Baidu Drive: [downloading link]() (coming soon)
 
