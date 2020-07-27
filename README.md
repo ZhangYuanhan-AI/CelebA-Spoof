@@ -19,9 +19,10 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 ![attribute stastic-1](fig/attribute_stastic-1.jpg)
 
 ## CelebA-Spoof Dataset Downloads
-Google Drive is available now!
+Google Drive and Baidu Drive are available now!
+
 * Google Drive: [downloading link](https://drive.google.com/drive/folders/1BftnlvXUNrZ6jsJC6QvFw4yCHQnWTIzw?usp=sharing)
-* Baidu Drive: [downloading link]() (coming soon)
+* Baidu Drive: [downloading link](https://pan.baidu.com/s/1Lhnwp6eZLu1nNRt4UfAgZA) code: q45z
 
 ## Related Works
 * **CelebA** dataset:<br/>
