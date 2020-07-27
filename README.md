@@ -7,6 +7,8 @@ CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofi
 
 ![fig1_compressed-1](fig/github3_2_1.png)
 
+[[**paper**](https://arxiv.org/abs/2007.12342)]
+
 ## AENet
 
 Based on these rich attributes, we further propose a simple yet powerful multi-task framework, namely AENet. Through AENet,we conduct extensive experiments to explore the roles of semantic informationand geometric information in face anti-spoofing.
@@ -17,7 +19,7 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 
 ## CelebA-Spoof Dataset Downloads
 * Dropbox: [downloading link 1](https://www.dropbox.com/sh/rmjzyg40lzv6grb/AAAleoBK4bsV0n30b4tb5ZjPa?dl=0) [downloading link 2(zips)](https://www.dropbox.com/sh/n1y0gntggabl9n7/AACIID4qDsBjeaKUzFK6wyj4a?dl=0)
-* Baidu Drive: [downloading link]()(To be continue)
+* Baidu Drive: [downloading link]()(coming soon)
 
 ## Related Works
 * **CelebA** dataset:<br/>
