@@ -1,4 +1,7 @@
 # CelebA-Spoof
+
+[[**paper**](https://arxiv.org/abs/2007.12342)]
+
 **CelebA-Spoof** is a large-scale face anti-spoofing dataset that has **625,537** images from **10,177** subjects, which includes **43** rich attributes on face, illumination,environment and spoof types. Live image selected from the CelebA dataset. We collect and annotate spoof images of CelebA-Spoof.
 
 Among 43 rich attributes, 40 attributes belong to live images including all facial components and accessories such as skin, nose, eyes, eyebrows,  lip, hair, hat, eyeglass. 3 attributes belong to spoof images including spoof types, environments and  illumination conditions.
@@ -6,8 +9,6 @@ Among 43 rich attributes, 40 attributes belong to live images including all faci
 CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing**.
 
 ![fig1_compressed-1](fig/github3_2_1.png)
-
-[[**paper**](https://arxiv.org/abs/2007.12342)]
 
 ## AENet
 
@@ -19,8 +20,8 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 
 ## CelebA-Spoof Dataset Downloads
 * Dropbox:  Not working because of download limit, we are working on it!
-* Baidu Drive: [downloading link]()(Coming soon)
-* Google Drive: [downloading link]()(Coming soon)
+* Google Drive: [downloading link]() (Coming soon)
+* Baidu Drive: [downloading link]() (Coming soon)
 
 ## Related Works
 * **CelebA** dataset:<br/>
