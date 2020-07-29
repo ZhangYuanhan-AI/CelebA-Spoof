@@ -22,7 +22,7 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 Google Drive and Baidu Drive are available now!
 
 * Google Drive: [downloading link](https://drive.google.com/drive/folders/1BftnlvXUNrZ6jsJC6QvFw4yCHQnWTIzw?usp=sharing)
-* Baidu Drive: [downloading link](https://pan.baidu.com/s/1Lhnwp6eZLu1nNRt4UfAgZA) code: q45z
+* Baidu Drive: [downloading link](https://pan.baidu.com/s/1Lhnwp6eZLu1nNRt4UfAgZA) (password: q45z)
 
 ## Related Works
 * **CelebA** dataset:<br/>
