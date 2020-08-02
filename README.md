@@ -21,8 +21,8 @@ Based on these rich attributes, we further propose a simple yet powerful multi-t
 ## CelebA-Spoof Dataset Downloads
 Google Drive and Baidu Drive are available now!
 
-* Google Drive: [downloading link](https://drive.google.com/drive/folders/1BftnlvXUNrZ6jsJC6QvFw4yCHQnWTIzw?usp=sharing)
-* Baidu Drive: [downloading link](https://pan.baidu.com/s/1Lhnwp6eZLu1nNRt4UfAgZA) (password: q45z)
+* Google Drive: [downloading link](https://drive.google.com/drive/folders/1OW_1bawO79pRqdVEVmBzp8HSxdSwln_Z?usp=sharing)
+* Baidu Drive: [downloading link](https://pan.baidu.com/s/12qe13-jFJ9pE-_E3iSZtkw) (password: 61fd)
 
 ## Related Works
 * **CelebA** dataset:<br/>
