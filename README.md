@@ -15,7 +15,7 @@ CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofi
 Based on these rich attributes, we further propose a simple yet powerful multi-task framework, namely AENet. Through AENet,we conduct extensive experiments to explore the roles of semantic informationand geometric information in face anti-spoofing.
 ![CNN4-1](fig/CNN4-1.jpg)
 
-## Sample images
+## Sample Images
 ![attribute stastic-1](fig/attribute_stastic-1.jpg)
 
 ## CelebA-Spoof Dataset Downloads
