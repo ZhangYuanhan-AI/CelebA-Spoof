@@ -10,8 +10,10 @@ CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofi
 
 ![fig1_compressed-1](fig/github3_2_1.png)
 
-## AENet
+## Challenge
+We host CelebA-Spoof Challenge 2020 based on the CelebA-Spoof dataset. The challenge will officially start together with ECCV 2020 SenseHuman Workshop [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). [Registration ](https://competitions.codalab.org/competitions/26210#participate) is now open. If you are interested in soliciting new ideas to advance the state of the art in real-world face forgery detection, we look forward to your participation!
 
+## AENet
 Based on these rich attributes, we further propose a simple yet powerful multi-task framework, namely AENet. Through AENet,we conduct extensive experiments to explore the roles of semantic informationand geometric information in face anti-spoofing.
 ![CNN4-1](fig/CNN4-1.jpg)
 
