@@ -19,7 +19,7 @@ In ECCV 2020.
 ## Updates
 
 [08/2020] The CelebA-Spoof Challenge 2020 will start together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/).
-[08/2020] AENet_C,S,G model and its inference code  for intra-dataset test have been **released**.
+[08/2020] AENet_C,S,G model and its inference code  for the intra-dataset test have been **released**.
 
 ## Challenge
 
@@ -34,7 +34,7 @@ Google Drive and Baidu Drive are available now!
 
 ## Code and Model
 
-AENet_C,S,G model and its inference code for intra-dataset test have been **released**. Please see the [intra_dataset_code](https://competitions.codalab.org/competitions/26210#participate) for more details.
+AENet_C,S,G model and its inference code for the intra-dataset test have been **released**. Please see the [intra_dataset_code](https://competitions.codalab.org/competitions/26210#participate) for more details.
 
 ## Summary
 
