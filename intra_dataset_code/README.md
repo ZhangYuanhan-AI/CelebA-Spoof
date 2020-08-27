@@ -1,6 +1,6 @@
 # Code for Intra-dataset Benchmark in CelebA-Spoof
 
-![image-20200827183455502](/Users/zhangyuanhan/Library/Application Support/typora-user-images/image-20200827183455502.png)
+![image-20200827183455502](../fig/intra_dataset_test.png)
 
 This is the code of  inference stage  for Intra-dataset Benchmark.
 
