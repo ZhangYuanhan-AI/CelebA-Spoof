@@ -34,7 +34,7 @@ Google Drive and Baidu Drive are available now!
 
 ## Code and Model
 
-AENet_C,S,G model and its inference code for intra-dataset test have been **released**. Please see the [intra_dataset_code] (https://competitions.codalab.org/competitions/26210#participate) for more details.
+AENet_C,S,G model and its inference code for intra-dataset test have been **released**. Please see the [intra_dataset_code](https://competitions.codalab.org/competitions/26210#participate) for more details.
 
 ## Summary
 
