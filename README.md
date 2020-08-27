@@ -5,9 +5,10 @@
 **CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations**
 
 [Yuanhan Zhang](https://github.com/Davidzhangyuanhan/CelebA-Spoof), [Zhenfie Yin](https://github.com/yinzhenfei), [Yidong Li](http://faculty.bjtu.edu.cn/8408/), [Guojun Yin](https://gjyin91.github.io/), [Junjie Yan](https://yan-junjie.github.io/), [Jing Shao](https://amandajshao.github.io/) and [Ziwei Liu](https://liuziwei7.github.io/)
+
 In ECCV 2020. 
 
- [[paper](https://arxiv.org/abs/2007.12342)]
+[[paper](https://arxiv.org/abs/2007.12342)]
 
 > Abstract: **CelebA-Spoof** is a large-scale face anti-spoofing dataset that has **625,537** images from **10,177** subjects, which includes **43** rich attributes on face, illumination,environment and spoof types. Live image selected from the CelebA dataset. We collect and annotate spoof images of CelebA-Spoof. Among 43 rich attributes, 40 attributes belong to live images including all facial components and accessories such as skin, nose, eyes, eyebrows,  lip, hair, hat, eyeglass. 3 attributes belong to spoof images including spoof types, environments and  illumination conditions.CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing**.
 
