@@ -10,11 +10,11 @@ import numpy as np
 
 
 
-
+#================================================================================
 # Please change following path to your OWN
 LOCAL_ROOT = './'
 LOCAL_IMAGE_LIST_PATH = 'metas/intra_test/test_label.json'
-
+#================================================================================
 
 
 def read_image(image_path):
