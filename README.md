@@ -8,7 +8,7 @@
 
 In ECCV 2020. 
 
-[[paper](https://arxiv.org/abs/2007.12342)]
+[[paper](https://arxiv.org/abs/2007.12342)] | [[video](https://www.youtube.com/watch?v=A7XjSg5srvI&t=4s)] 
 
 > Abstract: **CelebA-Spoof** is a large-scale face anti-spoofing dataset that has **625,537** images from **10,177** subjects, which includes **43** rich attributes on face, illumination,environment and spoof types. Live image selected from the CelebA dataset. We collect and annotate spoof images of CelebA-Spoof. Among 43 rich attributes, 40 attributes belong to live images including all facial components and accessories such as skin, nose, eyes, eyebrows,  lip, hair, hat, eyeglass. 3 attributes belong to spoof images including spoof types, environments and  illumination conditions.CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing**.
 
