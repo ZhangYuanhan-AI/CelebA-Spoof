@@ -49,7 +49,7 @@ We hired $8$ collectors to collect spoof data and another $2$ annotators to refi
 
 1. Five Angles: All spoof type need to traverse all five types of angles including ''vertical'',  ''down'',  ''up'',  ''forward'' and ''backward''. The angle of inclination is between [-30°, 30°].
 2. Four Shapes: There are a total of four shapes, ''normal'',  ''inside'', ''outside'' and ''corner''. 
-3. Four Sensors: We collected $24$ popular devices with four types, ''PC'', ''camera'', ''tablet'' and ''phone''.
+3. Four Sensors: We collected 24 popular devices with four types, ''PC'', ''camera'', ''tablet'' and ''phone''.
 
 ![data_collection](fig/data_collection.png)
 
