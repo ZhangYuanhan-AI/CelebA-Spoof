@@ -19,11 +19,14 @@ In ECCV 2020.
 ## Updates
 
 [08/2020] The CelebA-Spoof Challenge 2020 will start together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/).
+
+[08/2020] The CelebA-Spoof Challenge submission example is open!!
+
 [08/2020] AENet_C,S,G model and its inference code  for the intra-dataset test have been **released**.
 
 ## Challenge
 
-We host CelebA-Spoof Challenge 2020 based on the CelebA-Spoof dataset. The challenge will officially start together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). [Registration](https://competitions.codalab.org/competitions/26210#participate) is now open. If you are interested in soliciting new ideas to advance the state of the art in real-world face forgery detection, we look forward to your participation!
+We host CelebA-Spoof Challenge 2020 based on the CelebA-Spoof dataset. The challenge will officially start together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). [Registration](https://competitions.codalab.org/competitions/26210#participate) is now open. If you are interested in soliciting new ideas to advance the state of the art in real-world face anti-spoofing, we look forward to your participation! The CelebA-Spoof Challenge submission example is avaliable [here](https://github.com/Davidzhangyuanhan/CelebASpoofChallengeSubmissionExample).
 
 [[video](https://www.youtube.com/watch?v=j-RTCUjVBGE&list=PLua4XbbBXzFezSfmoZwgiIS5Ze0__mi70&index=7&t=0s)]
 
