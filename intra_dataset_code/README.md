@@ -22,7 +22,7 @@ This is the code of  inference stage  for Intra-dataset Benchmark.
   # 'metas/intra_test/test_label.json' is the label file which we have already upload in our dataset.zip
   LOCAL_ROOT = './'
   LOCAL_IMAGE_LIST_PATH = 'metas/intra_test/test_label.json'
-  #================================================================================[
+  #================================================================================
   ```
 
 - **Step 2.** Run it !!
