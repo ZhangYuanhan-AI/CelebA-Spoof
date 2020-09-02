@@ -65,7 +65,7 @@ Besides the annotation of live/Spoof, Existing face anti-spoofing only annotate 
 | :--------------------: | :--: | :----: | :-----: | :--: | :-------: | :-------------: | :---------: | :--: | :--: | :---: | :-----: |
 |       Spoof Type       | Live | Photo  | Poster  |  A4  | Face Mask | Upper Body Mask | Region Mask |  PC  | Pad  | Phone | 3D Mask |
 | Illumination Condition | Live | Normal | Strong  | Back |   Dark    |                 |             |      |      |       |         |
-|      Environment       | Live | Indoor | OurDoor |      |           |                 |             |      |      |       |         |
+|      Environment       | Live | Indoor | Ourdoor |      |           |                 |             |      |      |       |         |
 
 
 
