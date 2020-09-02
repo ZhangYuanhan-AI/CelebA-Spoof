@@ -57,7 +57,17 @@ We hired $8$ collectors to collect spoof data and another $2$ annotators to refi
 
 Besides the annotation of live/Spoof, Existing face anti-spoofing only annotate the spoof type. To further comprehensively investigate face anti-spoofing tasks from various perspectives, in CelebA-Spoof, we annotate 43 different annotations. 40 types of Face Attribute defined in CelebA plus 3 attributes of face anti-spoofing, including Spoof Type, Illumination Condition, and Environment.
 
-![attribute stastic-1](fig/attribute_stastic-1.jpg)
+![attribute stastic-1](fig/attribute_stastic.png)
+
+#### Annotation Detail
+
+|                        |  0   |   1    |    2    |  3   |     4     |        5        |      6      |  7   |  8   |   9   |   10    |
+| :--------------------: | :--: | :----: | :-----: | :--: | :-------: | :-------------: | :---------: | :--: | :--: | :---: | :-----: |
+|       Spoof Type       | Live | Photo  | Poster  |  A4  | Face Mask | Upper Body Mask | Region Mask |  PC  | Pad  | Phone | 3D Mask |
+| Illumination Condition | Live | Normal | Strong  | Back |   Dark    |                 |             |      |      |       |         |
+|      Environment       | Live | Indoor | OurDoor |      |           |                 |             |      |      |       |         |
+
+
 
 
 
