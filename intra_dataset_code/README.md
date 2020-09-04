@@ -19,7 +19,7 @@ This is the code of  inference stage  for Intra-dataset Benchmark.
   ```python
   #================================================================================
   # Please change following path to your OWN
-  # 'metas/intra_test/test_label.json' is the label file which we have already upload in our dataset.zip
+  # 'metas/intra_test/test_label.json' is the label file which we have already upload in [here](https://github.com/Davidzhangyuanhan/CelebA-Spoof#dataset-downloads)
   LOCAL_ROOT = './'
   LOCAL_IMAGE_LIST_PATH = 'metas/intra_test/test_label.json'
   #================================================================================
