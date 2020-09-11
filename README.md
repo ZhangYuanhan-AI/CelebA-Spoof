@@ -45,7 +45,7 @@ AENet_C,S,G model and its inference code for the intra-dataset test have been **
 
 ### Data Collection
 
-We hired $8$ collectors to collect spoof data and another $2$ annotators to refine labeling for all data. To improve the generalization and diversity of the dataset, as shown in Figure below, we define three collection dimensions with fine-grained quantities: 
+We hired 8 collectors to collect spoof data and another 2 annotators to refine labeling for all data. To improve the generalization and diversity of the dataset, as shown in Figure below, we define three collection dimensions with fine-grained quantities: 
 
 1. Five Angles: All spoof type need to traverse all five types of angles including ''vertical'',  ''down'',  ''up'',  ''forward'' and ''backward''. The angle of inclination is between [-30°, 30°].
 2. Four Shapes: There are a total of four shapes, ''normal'',  ''inside'', ''outside'' and ''corner''. 
