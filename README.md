@@ -69,7 +69,7 @@ Besides the annotation of Live/Spoof, Existing face anti-spoofing only annotate 
 
 
 #### Annotation in Json File
-[0:40]: Face attribute labels | [40]: spoof type label | [41]: illumination label | [42]: Environment label | [43]: live/spoof label
+[0:40]: Face attribute labels # [40]: Spoof type label # [41]: Illumination condition label # [42]: Environment label # [43]: Live/Spoof label
 
 
 ### AENet
