@@ -10,7 +10,7 @@ In ECCV 2020.
 
 [[paper](https://arxiv.org/abs/2007.12342)] | [[video](https://www.youtube.com/watch?v=A7XjSg5srvI&t=4s)] 
 
-> Abstract: **CelebA-Spoof** is a large-scale face anti-spoofing dataset that has **625,537** images from **10,177** subjects, which includes **43** rich attributes on face, illumination,environment and spoof types. Live image selected from the CelebA dataset. We collect and annotate spoof images of CelebA-Spoof. Among 43 rich attributes, 40 attributes belong to live images including all facial components and accessories such as skin, nose, eyes, eyebrows,  lip, hair, hat, eyeglass. 3 attributes belong to spoof images including spoof types, environments and  illumination conditions.CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing**.
+> Abstract: **CelebA-Spoof** is a large-scale face anti-spoofing dataset that has **625,537** images from **10,177** subjects, which includes **43** rich attributes on face, illumination,environment and spoof types. Live image selected from the CelebA dataset. We collect and annotate spoof images of CelebA-Spoof. Among 43 rich attributes, 40 attributes belong to Live images including all facial components and accessories such as skin, nose, eyes, eyebrows,  lip, hair, hat, eyeglass. 3 attributes belong to spoof images including spoof types, environments and  illumination conditions.CelebA-Spoof  can be used to **train and evaluate algorithms of face anti-spoofing**.
 
 ![dataset](fig/dataset.png)
 
@@ -45,7 +45,7 @@ AENet_C,S,G model and its inference code for the intra-dataset test have been **
 
 ### Data Collection
 
-We hired $8$ collectors to collect spoof data and another $2$ annotators to refine labeling for all data. To improve the generalization and diversity of the dataset, as shown in Figure below, we define three collection dimensions with fine-grained quantities: 
+We hired 8 collectors to collect spoof data and another 2 annotators to refine labeling for all data. To improve the generalization and diversity of the dataset, as shown in Figure below, we define three collection dimensions with fine-grained quantities: 
 
 1. Five Angles: All spoof type need to traverse all five types of angles including ''vertical'',  ''down'',  ''up'',  ''forward'' and ''backward''. The angle of inclination is between [-30°, 30°].
 2. Four Shapes: There are a total of four shapes, ''normal'',  ''inside'', ''outside'' and ''corner''. 
@@ -55,7 +55,7 @@ We hired $8$ collectors to collect spoof data and another $2$ annotators to refi
 
 ### Rich Annotations
 
-Besides the annotation of live/Spoof, Existing face anti-spoofing only annotate the spoof type. To further comprehensively investigate face anti-spoofing tasks from various perspectives, in CelebA-Spoof, we annotate 43 different annotations. 40 types of Face Attribute defined in CelebA plus 3 attributes of face anti-spoofing, including Spoof Type, Illumination Condition, and Environment.
+Besides the annotation of Live/Spoof, Existing face anti-spoofing only annotate the spoof type. To further comprehensively investigate face anti-spoofing tasks from various perspectives, in CelebA-Spoof, we annotate 43 different annotations. 40 types of Face Attribute defined in CelebA plus 3 attributes of face anti-spoofing, including Spoof Type, Illumination Condition, and Environment.
 
 ![attribute stastic-1](fig/attribute_stastic.png)
 
@@ -68,7 +68,8 @@ Besides the annotation of live/Spoof, Existing face anti-spoofing only annotate 
 |      Environment       | Live | Indoor | Ourdoor |      |           |                 |             |      |      |       |         |
 
 
-
+#### Annotation in Json File
+[0:40]: Face attribute labels # [40]: Spoof type label # [41]: Illumination condition label # [42]: Environment label # [43]: Live/Spoof label
 
 
 ### AENet
