@@ -148,7 +148,7 @@ def get_tpr_from_threshold(scores,labels, threshold_list):
     for threshold in threshold_list:
         hack_index = 0
         while hack_index < hack_nums:
-            if hack_scores[hack_index] < threshold:
+            if hack_scores[hack_index] <= threshold:
                 break
             else:
                 hack_index += 1
