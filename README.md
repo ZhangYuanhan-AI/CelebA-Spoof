@@ -37,6 +37,14 @@ Google Drive and Baidu Drive are available now!
 * Google Drive: [downloading link](https://drive.google.com/drive/folders/1OW_1bawO79pRqdVEVmBzp8HSxdSwln_Z?usp=sharing)
 * Baidu Drive: [downloading link](https://pan.baidu.com/s/12qe13-jFJ9pE-_E3iSZtkw) (password: 61fd)
 
+Here is a little script to download all the zip files from Google Drive using python - [View gist](https://gist.github.com/thisisbhavin/3476810feb8e81bb24783de2c93a683e)
+
+If you are on EC2 (ubuntu machine) you can concat the downloaded files and unzip it using -
+
+- cat CelebA_Spoof.zip.* > CelebA_Spoof.zip
+- zip -FF CelebA_Spoof.zip --out CelebA_Spoof_.zip
+- unzip CelebA_Spoof_.zip
+
 ## Code and Model
 
 AENet_C,S,G model and its inference code for the intra-dataset test have been **released**. Please see the [intra_dataset_code](https://github.com/Davidzhangyuanhan/CelebA-Spoof/tree/master/intra_dataset_code) for more details.
