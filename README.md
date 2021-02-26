@@ -17,6 +17,7 @@ In ECCV 2020.
 
 
 ## Updates
+[02/2021] The [technical report](https://arxiv.org/abs/2102.12642) of CelebA-Spoof Challenge 2020 is released on arXiv.
 
 [08/2020] The CelebA-Spoof Challenge 2020 will start together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/).
 
